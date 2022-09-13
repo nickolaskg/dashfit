@@ -1,0 +1,24 @@
+{
+  "name": "dashfit",
+  "version": "1.0.0",
+  "description": "A web app for searching, creating, and customizing workout plans.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickolaskg/dashfit.git"
+  },
+  "keywords": [
+    "fitness",
+    "webapp",
+    "workouts"
+  ],
+  "author": "Nickolas Gettel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickolaskg/dashfit/issues"
+  },
+  "homepage": "https://github.com/nickolaskg/dashfit#readme"
+}
